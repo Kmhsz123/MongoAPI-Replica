@@ -1,0 +1,6 @@
+@ResponseTime_HostAddress = http://localhost:5179
+
+GET {{ResponseTime_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

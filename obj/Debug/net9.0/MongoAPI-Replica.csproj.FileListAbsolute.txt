@@ -1,0 +1,9 @@
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.csproj.AssemblyReference.cache
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.AssemblyInfoInputs.cache
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.AssemblyInfo.cs
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.csproj.CoreCompileInputs.cache
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moises Lacayo\Documents\MongoAPI-Replica\MongoAPI-Replica\obj\Debug\net9.0\MongoAPI-Replica.sourcelink.json

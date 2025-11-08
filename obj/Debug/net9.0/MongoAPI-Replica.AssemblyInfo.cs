@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoAPI-Replica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd13b641d17cf40f2ce88ab67684a02b2e33651")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoAPI-Replica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoAPI-Replica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
